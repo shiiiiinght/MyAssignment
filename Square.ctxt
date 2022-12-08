@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Square
+comment1.params=
+comment1.target=Square()
+comment2.params=sideLength
+comment2.target=Square(double)
+numComments=3

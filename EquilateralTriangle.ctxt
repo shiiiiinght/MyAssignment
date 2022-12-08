@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=EquilateralTriangle
+comment1.params=
+comment1.target=EquilateralTriangle()
+comment2.params=length
+comment2.target=EquilateralTriangle(double)
+numComments=3

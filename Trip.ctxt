@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Trip
+comment1.params=numberOfDestinations\ distanceUnit
+comment1.target=double[]\ getTripSegmentDistances(int,\ java.lang.String)
+comment2.params=segmentDistances
+comment2.target=double\ totalTripDistance(double[])
+comment3.params=segmentDistances
+comment3.target=double\ minimumTripSegmentDistance(double[])
+comment4.params=segmentDistances
+comment4.target=double\ maximumtripSegmentDistance(double[])
+numComments=5
